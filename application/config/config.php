@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost:8080/CI_QueQuieresComprar/';
+$config['base_url']	= 'http://localhost:8085/CI_QueQuieresComprar/';
 
 /*
 |--------------------------------------------------------------------------

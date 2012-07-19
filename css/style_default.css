@@ -1,0 +1,46 @@
+@CHARSET "utf-8";
+
+body
+{
+	/*font-family: "Trebuchet MS", Tahoma, Verdana;*/
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 11px;
+}
+
+form
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+table
+{
+	font-size: inherit;
+}
+
+
+/* Element by ID */
+#pag
+{
+	border: #000 solid 1px;
+	width: 1000px;
+	height: 100%;
+}
+
+
+
+
+
+/* Element by Class */
+.form_input
+{
+	font-family: inherit;
+	color: #666;
+	text-transform: uppercase;
+	border: #000 solid 1px;
+	
+}
+
+.form_error
+{
+	color: #f00;
